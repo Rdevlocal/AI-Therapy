@@ -2,9 +2,6 @@
 
 This application provides a personalized mental wellness experience using AI from a large language model (LLM). It's designed to offer emotional support and coping strategies through empathetic conversations..
 
-## Demo
-
-[https://ai-thera.vercel.app/](https://ai-thera.vercel.app/)
 
 ## Overview
 
